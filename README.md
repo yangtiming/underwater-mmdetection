@@ -1,4 +1,7 @@
 # underwater-object-detection-mmdetection
+## 比赛地址
+https://www.heywhale.com/home/competition/605ab78821e3f6003b56a7d8
+# 获奖说明
 
 ## 环境安装及编译
 1. conda create -n 自拟环境名称 python=3.7 -y
