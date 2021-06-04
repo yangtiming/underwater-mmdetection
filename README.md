@@ -1,5 +1,4 @@
 # underwater-object-detection-mmdetection
-#参考:"https://github.com/milleniums/underwater-object-detection-mmdetection"
 
 ## 环境安装及编译
 1. conda create -n 自拟环境名称 python=3.7 -y
@@ -13,7 +12,7 @@
 
 ## 预训练模型下载
  - 下载mmdetection官方开源的htc的[resnext 64×4d 预训练模型](https://s3.ap-northeast-2.amazonaws.com/open-mmlab/mmdetection/models/htc/htc_dconv_c3-c5_mstrain_400_1400_x101_64x4d_fpn_20e_20190408-0e50669c.pth)
- - 百度网盘下载地址：链接:https://pan.baidu.com/s/1r3uQVpOLKfjF8vfLEYPMgg  密码:811m
+
 
 
 ## 模型训练与预测
@@ -53,12 +52,5 @@
     
     
 ## Reference
-   - [BaselineBy郑烨](https://github.com/zhengye1995/underwater-object-detection)
-   - [2019广东工业智造创新大赛【赛场一】布匹疵点智能识别rank2解决方案](https://github.com/cizhenshi/TianchiGuangdong2019_2th)
+#参考:"https://github.com/milleniums/underwater-object-detection-mmdetection"
    
-   
-## Contact
-    
-    author: hk
-    qq：3025531252
-    email: 3025531252@qq.com
