@@ -1,8 +1,9 @@
 # underwater-object-detection-mmdetection
 ## 比赛地址
 https://www.heywhale.com/home/competition/605ab78821e3f6003b56a7d8
-# 获奖说明
-
+## 获奖说明
+【晋级决赛】【第20名入围奖】【A榜提交排名25/498】【B榜26/151】【参与队伍1000+】
+### 队名 电信小菜鸡
 ## 环境安装及编译
 1. conda create -n 自拟环境名称 python=3.7 -y
 2. conda install pytorch=1.1.0 torchvision=0.3.0 cudatoolkit=10.0
