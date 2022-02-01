@@ -56,5 +56,5 @@ https://www.heywhale.com/home/competition/605ab78821e3f6003b56a7d8
     
     
 ## Reference
-### [milleniums/underwater-object-detection-mmdetection](https://github.com/milleniums/underwater-object-detection-mmdetection)
+* [milleniums/underwater-object-detection-mmdetection](https://github.com/milleniums/underwater-object-detection-mmdetection)
    
